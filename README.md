@@ -1,4 +1,4 @@
-# EX-2 Information Gathering Techiques
+# EX-2 Information Gathering Techiques 
 
 # To perform information gathering techniques
 
